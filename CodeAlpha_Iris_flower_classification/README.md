@@ -101,3 +101,9 @@ This helps understand feature importance and class separation.
 ### Step 1: Clone the repository
 ```bash
 git clone https://github.com/your-username/your-repo-name.git
+
+### Step 2: Install required libraries
+pip install pandas matplotlib seaborn scikit-learn
+
+### Step 3: Run the Python script
+python iris_classification.py
